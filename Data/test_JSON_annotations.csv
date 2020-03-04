@@ -1,0 +1,5 @@
+user_name,annotations
+Rodne5262,"[{""task"":""T0"",""value"":[{""choice"":""NOTHINGHERE"",""answers"":{},""filters"":{}}]}]"
+Sammiegaul,"[{""task"":""T0"",""value"":[{""choice"":""DEERWHITETAILED"",""answers"":{""HOWMANY"":""1"",""YOUNGPRESENT"":""NO"",""ANTLERSPRESENT"":""NO"",""WHATBEHAVIORSDOYOUSEE"":[""ALERT""],""ESTIMATEOFSNOWDEPTHSEETUTORIAL"":""NOSNOWBAREGROUND"",""ISITACTIVELYRAININGORSNOWINGINTHEPICTURE"":""NO""},""filters"":{}}]}]"
+Rodne5262,"[{""task"":""T0"",""value"":[{""choice"":""NOTHINGHERE"",""answers"":{},""filters"":{}}]}]"
+barthelmess,"[{""task"":""T0"",""value"":[{""choice"":""FISHER"",""answers"":{""HOWMANY"":""1"",""YOUNGPRESENT"":""NO"",""WHATBEHAVIORSDOYOUSEE"":[""WALKINGRUNNING"",""ALERT""],""ESTIMATEOFSNOWDEPTHSEETUTORIAL"":""1020CM"",""ISITACTIVELYRAININGORSNOWINGINTHEPICTURE"":""NO""},""filters"":{}}]}]"

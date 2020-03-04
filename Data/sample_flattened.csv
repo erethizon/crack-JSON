@@ -1,0 +1,5 @@
+﻿user_id,task,choice,how_many,young_present,antlers_present,whatbehavior_alert,what_behavior_walking_running,snow_depth,precipitation,filters
+Erika,T0,NOTHINGHERE,,,,,,,NO,
+Gus,T0,DEERWHITETAILED,1,NO,NO,ALERT,,NOSNOWBAREGROUND,,
+Tulip,T0,NOTHINGHERE,,,,,,,,
+Tex,T0,FISHER,1,NO,,ALERT,WALKINGRUNNING,1020CM,NO,
